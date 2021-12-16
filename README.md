@@ -4,8 +4,6 @@
   <img align="center" src="developer.gif" width='auto' />
  </p>
 
-
-
 I am Şakir Mehmetoğlu 🧔
 
 Currently, I live in Istanbul. I have been interested in web development since 2007 and I have been working professionally since 2011.
@@ -16,31 +14,31 @@ I have been working on e-commerce projects for about 6+ years, but throughout my
 👨🏻‍💻 &nbsp; I'm a Computer Engineer\
 🌱 &nbsp;I am interested in e-commerce systems development, application security, software architectures and the use of different technologies together.\
 🚀 ️&nbsp;In my free time, when I am at the computer, I do research on technological issues that I am interested in. When I get away from the computer, I often use my bike and especially go on nature trips. Being away from the city center relaxes me.\
-🥰️ &nbsp;In addition, I try to provide training on topics I know in environments such as Discord, and we develop projects with junior developers. I'm happy to see them getting better. \
+🥰️ &nbsp;In addition, I try to provide training on topics I know in environments such as Discord, and we develop projects with junior developers. I'm happy to see them getting better.
 
 ### 💪 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆
 
 - 💻  Linux Mint / Ubuntu 21.04
-- 🍺  PHP Laravel / Vue / Nuxt
+- 💵  PHP, JavaScript (Laravel / Vue / Nuxt)
 - 🐋  Docker / Docker Compose
+- ⚙️  DevOps (Not Professionally)
 
 ### 😎 My Interests
-- Distributed Systems
-- E-Commerce Projects
-- Cyber Security (Especially Software Security)
+- 🕸  Distributed Systems
+- 📦  E-Commerce Projects
+- 💻  Cyber Security (Especially Software Security)
 
 ### 🤔 Also Interested In
-- Flutter
-- Mobile App Security
-- Golang (I'm just getting started)
+- 🍬  Flutter (For fun)
+-🏴‍☠️ Mobile App Security
+- 🍼  Golang (I'm just getting started)
 
 ### 🛠 Technologies & Tools
 
 Talk to me about
 - Frontend : **JavaScript (Vue, Nuxt, jQuery), Bootstrap, CSS**
 - Backend : **PHP, C#<sup> * </sup>, Java<sup> ** </sup>, Node.js, SQL (MySQL / MariaDB, MSSQL), Redis, Firebase**
-- Tools : **Postman, Trello, PHPStorm, Visual Studio Code**
-- Other : **Linux, Docker, Docker Compose, GIT, AWS**
+- Tools & Other Topics : **Linux, Docker, Docker Compose, SASS, GIT, AWS, Grafana, Prometheus, Jenkins, NGinX, Postman, Trello, PHPStorm, Visual Studio Code**
 
 <small>* I haven't been developing for about 5 years. I rarely follow innovations.</small> \
 <small>** I developed desktop applications with Java SE. I also developed a few Android apps. I haven't been involved for 5+ years.</small>
@@ -54,6 +52,14 @@ Talk to me about
   <a href="https://twitter.com/sustartx"><img src="https://img.shields.io/badge/@sustartx-1d9bf0?logo=Twitter&logoColor=white"/></a>
 - 📫 Read my blogs (Turkish): [![Şakir Mehmetoğlu](https://img.shields.io/badge/WordPress-003c56.svg?&logo=wordpress&logoColor=white)](https://sakirmehmetoglu.com.tr)
 - 💬 Ask me about anything and everything. [Contact Form](http://sakirmehmetoglu.com.tr/iletisim)
+
+
+### 📔 Latest Blog Posts
+<details>
+  <summary><b style="font-size:18px">📔 Latest Blog Posts</b></summary>
+  <br/>
+  Soon..
+</details>
 
 ## 📈 Github Stats
 
