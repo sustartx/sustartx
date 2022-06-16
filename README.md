@@ -1,4 +1,4 @@
-## Hello There <img src="hi.gif" width="30px">
+## Hello There <img src="hi.gif" width="30">
 
 <p align="center">
   <img align="center" src="developer.gif" width='auto' />
